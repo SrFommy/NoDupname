@@ -8,6 +8,7 @@ venv/
 
 #Ignorar informacion en la carpeta bases
 bases/
+!.gitkeep
 
 # Ignorar archivos de sistema
 .DS_Store
