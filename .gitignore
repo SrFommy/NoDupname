@@ -1,0 +1,14 @@
+# Ignorar carpetas y archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar entornos virtuales
+venv/
+
+#Ignorar informacion en la carpeta bases
+bases/
+
+# Ignorar archivos de sistema
+.DS_Store
+.idea/
